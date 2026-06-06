@@ -45,6 +45,7 @@ If you're launching a SaaS, AI tool, indie product, or dev tool, **directory sub
 - **[MicroLaunch](https://microlaunch.net)** · DR 30 · dofollow · free — Daily micro-launches.
 - **[Open Launch](https://openlaunch.ai)** · DR 30 · nofollow · free
 - **[Launch Vault](https://www.launchvault.dev)** · DR 30 · nofollow · free
+- **[ThisTools](https://thistools.app/)** · emerging · dofollow · free — Tech product discovery platform for daily launches and upvotes.
 - **[NextGen Tools](https://www.nxgntools.com)** · DR 25 · conditional dofollow · free + paid tier
 
 ## Startup Directories
@@ -128,6 +129,7 @@ If you're launching a SaaS, AI tool, indie product, or dev tool, **directory sub
 - **[Dang.ai](https://dang.ai)** · DA 35 · dofollow · free
 - **[AITop10.tools](https://aitop10.tools)** · DR 35 · conditional dofollow · free — Free tier requires reciprocal backlink — trade carefully.
 - **[TopApps.ai](https://topapps.ai)** · DR 30 · dofollow · free
+- **[ProductDirs](https://productdirs.com/)** · emerging · dofollow · free — AI tools and tech product discovery directory with daily launches and curated reviews.
 - **[aitools.fyi](https://aitools.fyi)** · DA 27 · dofollow · free
 - **[Easy With AI](https://easywithai.com)** · DA 27 · dofollow · free
 - **[AI Scout](https://aiscout.net)** · DA 25 · dofollow · free
