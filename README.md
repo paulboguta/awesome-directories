@@ -28,6 +28,7 @@ If you're launching a SaaS, AI tool, indie product, or dev tool, **directory sub
 ## ⭐ Top Pick
 
 - **[Batchlisted](https://batchlisted.com/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-directories)** · service · from $99 — Done-for-you directory submission service. Submits your SaaS, AI tool, or startup to 100+ high-DR directories in this list. From $99 one-time. Built for founders who would rather ship than spend 20+ hours copy-pasting submission forms.
+- **[HokAI](https://hokai.io)** · DR X (in progress) · dofollow · free — Curated AI tools directory with Smart Match for buyers, 100+ daily users, permanent dofollow backlinks, manually maintained listings.
 
 ## Launch Platforms
 
