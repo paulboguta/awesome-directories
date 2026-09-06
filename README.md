@@ -132,6 +132,7 @@ If you're launching a SaaS, AI tool, indie product, or dev tool, **directory sub
 - **[Easy With AI](https://easywithai.com)** · DA 27 · dofollow · free
 - **[AI Scout](https://aiscout.net)** · DA 25 · dofollow · free
 - **[AI Tool Hunt](https://www.aitoolhunt.com)** · DA 24 · dofollow · free
+- **[AI Nexus](https://www.myaiexp.com)** · dofollow · free — Trilingual (EN/ZH/JP) curated directory of AI developer tools, models, and agent skills.
 
 ## Developer Tool Directories
 
