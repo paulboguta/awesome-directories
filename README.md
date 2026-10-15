@@ -116,6 +116,7 @@ If you're launching a SaaS, AI tool, indie product, or dev tool, **directory sub
 
 *AI tool directories. Growing rapidly since 2023; some now rival Product Hunt in traffic for AI builders.*
 
+- **[AI Tools Radar](https://aitoolsradar.com/)** — Multilingual AI directory with models, skills, prompts and editorial coverage; vendor submission is paid.
 - **[Toolify](https://www.toolify.ai)** · DR 75 · dofollow · paid
 - **[There's An AI For That](https://theresanaiforthat.com)** · DR 62 · dofollow · free + paid tier — Largest AI directory.
 - **[FutureTools](https://futuretools.io)** · DR 55 · dofollow · free — Matt Wolfe's directory.
