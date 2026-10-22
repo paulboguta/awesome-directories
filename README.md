@@ -121,6 +121,7 @@ If you're launching a SaaS, AI tool, indie product, or dev tool, **directory sub
 - **[FutureTools](https://futuretools.io)** · DR 55 · dofollow · free — Matt Wolfe's directory.
 - **[TopAI.tools](https://topai.tools)** · DR 55 · dofollow · paid
 - **[Futurepedia](https://www.futurepedia.io)** · DR 42 · conditional dofollow · free + paid tier
+- **[forkalt](https://forkalt.com)** · free — Directory of open-source and free alternatives to paid AI and pro software, with side-by-side model comparisons.
 - **[AI Tools Directory](https://aitoolsdirectory.com)** · DR 40 · nofollow · free
 - **[BAI.tools](https://bai.tools)** · DR 40 · conditional dofollow · free + paid tier
 - **[Supertools](https://supertools.therundown.ai)** · DA 38 · dofollow · free — Part of The Rundown AI.
