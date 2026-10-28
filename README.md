@@ -132,6 +132,7 @@ If you're launching a SaaS, AI tool, indie product, or dev tool, **directory sub
 - **[Easy With AI](https://easywithai.com)** · DA 27 · dofollow · free
 - **[AI Scout](https://aiscout.net)** · DA 25 · dofollow · free
 - **[AI Tool Hunt](https://www.aitoolhunt.com)** · DA 24 · dofollow · free
+- **[Build Stack Tools](https://buildstacktools.com)** · free — Directory of AI coding tools and app builders with alternatives, comparisons and pricing pages. Free listing, no backlink required.
 
 ## Developer Tool Directories
 
