@@ -46,6 +46,7 @@ If you're launching a SaaS, AI tool, indie product, or dev tool, **directory sub
 - **[Open Launch](https://openlaunch.ai)** · DR 30 · nofollow · free
 - **[Launch Vault](https://www.launchvault.dev)** · DR 30 · nofollow · free
 - **[NextGen Tools](https://www.nxgntools.com)** · DR 25 · conditional dofollow · free + paid tier
+- **[LaunchHub / Free Backlink Sources](https://www.uwarp.design/launch)** · free — Interactive directory of free/freemium launch platforms & backlink sources (open curated list: [github.com/sherotree/free-backlink-sources](https://github.com/sherotree/free-backlink-sources)).
 
 ## Startup Directories
 
