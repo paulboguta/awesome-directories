@@ -75,6 +75,7 @@ If you're launching a SaaS, AI tool, indie product, or dev tool, **directory sub
 - **[Startups FYI](https://www.startups.fyi)** · DA 19 · dofollow · free
 - **[FeedMyStartup](https://feedmystartup.com)** · DR 18 · dofollow · free
 - **[PromoteProject](https://promoteproject.com)** · DR 15 · dofollow · free
+- **[SitePatent](https://sitepatent.com/)** · nofollow on free, dofollow on paid · free + paid tier — Screened listings sorted by category and tech stack. The free tier asks for a badge on your homepage; paid listings start at $19, one-time.
 
 ## SaaS Directories
 
