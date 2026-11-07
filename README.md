@@ -46,6 +46,7 @@ If you're launching a SaaS, AI tool, indie product, or dev tool, **directory sub
 - **[Open Launch](https://openlaunch.ai)** · DR 30 · nofollow · free
 - **[Launch Vault](https://www.launchvault.dev)** · DR 30 · nofollow · free
 - **[NextGen Tools](https://www.nxgntools.com)** · DR 25 · conditional dofollow · free + paid tier
+- **[We push your site to the World](https://wepushyoursitetotheworld.aplusz.app)** · dofollow · free — Free check + listing for any site, built for people and AI models (llms.txt, IndexNow, MCP). New (Nov 2026), DR not yet measured.
 
 ## Startup Directories
 
