@@ -40,6 +40,7 @@ If you're launching a SaaS, AI tool, indie product, or dev tool, **directory sub
 - **[PeerPush](https://peerpush.net)** · DR 50 · dofollow · free — GEO-friendly: optimizes for AI-readable structured data.
 - **[Fazier](https://fazier.com)** · DR 45 · nofollow · free
 - **[Launched.io](https://launched.io)** · DR 35 · dofollow · free
+- **[Awesome Indie](https://awesomeindie.com)** · DR 41 · dofollow · free + paid tier — Daily launches ranked by community upvotes.
 - **[Next Big Product](https://nextbigproduct.com)** · DR 35 · conditional dofollow · free + paid tier
 - **[Uneed](https://www.uneed.best)** · DR 32 · dofollow · free + paid tier
 - **[MicroLaunch](https://microlaunch.net)** · DR 30 · dofollow · free — Daily micro-launches.
